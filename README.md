@@ -8,5 +8,5 @@ Clone it to local machine and all instructions and esstential links are present 
 ### Tools 
 `Tensorflow` `Colab`
 
-### Output
-![sample output](https://github.com/Manikant25/Dog-Vision/blob/master/sample_output.png)
+#### Note 
+This project is under progress
